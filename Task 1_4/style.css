@@ -1,0 +1,20 @@
+body {
+    font-size: 20px; 
+}
+
+ul, ol {
+    font-size: 20px; 
+}
+
+li {
+    font-size: 20px;
+}
+
+ol[type="a"] {
+    font-size: 18px; 
+}
+
+.circle-list {
+    list-style-type: circle;
+    font-size: 18px; 
+}
